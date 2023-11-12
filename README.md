@@ -1,4 +1,4 @@
-# 🍎 🔓 OSX Password Cracker Script
+# 🍎 🔓 OSX Password Dumper Script
 
 ## Overview
 
