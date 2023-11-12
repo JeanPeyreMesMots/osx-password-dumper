@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# /!\ Note : this script is intended to be used on a Mac OS computer where you ALREADY gained
+# /!\ Note : this script is intended to be used on a Mac OS computer on you ALREADY gained
 # root access. Retreiving user's hash is always useful for CTFs, pentesting or red teaming operations.
 
 # Check if script is ran as root
