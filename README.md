@@ -10,7 +10,7 @@ Useful for CTFs/Pentesting/Red Teaming on macOS systems.
 ## Prerequisites
 
 - The script must be run as a root user (`sudo`)
-- macOS environment (tested on a )
+- macOS environment (tested on a macOS VM Ventura beta 13.0 (22A5266r))
 
 ## Usage
 
