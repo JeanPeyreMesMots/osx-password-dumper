@@ -1,4 +1,4 @@
-# 🚀 OSX Password Cracker Script
+# 🔓 🍎 OSX Password Cracker Script
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/osx-password-cracker)
 ![GitHub license](https://img.shields.io/github/license/yourusername/osx-password-cracker)
@@ -6,12 +6,6 @@
 ## Overview
 
 This bash script is designed for use in CTFs or ethical penetration testing on macOS systems. It extracts and processes password-related data for user accounts on the system.
-
-## Features
-
-- Extracts user password data from macOS systems
-- Generates hash values for each user
-- Supports customization and integration with other tools
 
 ## Prerequisites
 
