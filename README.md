@@ -1,5 +1,24 @@
-# osx-password-dumper
-A tool to dump users's .plist on a Mac OS system and to convert them into a crackable hash format for JtR or Hashcat for eg.
+# 🚀 OSX Password Cracker Script
 
-NOTE : this script is intended to be used on a Mac OS computer on you ALREADY gained
-root access. Retreiving user's hash is always useful for CTFs, Pentesting or Red Teaming operations.
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/osx-password-cracker)
+![GitHub license](https://img.shields.io/github/license/yourusername/osx-password-cracker)
+
+## Overview
+
+This bash script is designed for use in CTFs or ethical penetration testing on macOS systems. It extracts and processes password-related data for user accounts on the system.
+
+## Features
+
+- Extracts user password data from macOS systems
+- Generates hash values for each user
+- Supports customization and integration with other tools
+
+## Prerequisites
+
+- The script must be run as a root user (`sudo`)
+- macOS environment
+
+## Usage
+
+```bash
+sudo ./osx_password_cracker.sh OUTPUT_FILE
