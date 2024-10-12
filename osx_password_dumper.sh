@@ -71,7 +71,7 @@ getFullHashes()
 		USER_HASH="$ml$""$USER_HASH"
         
         # Outputing users and hashes in a fancy way
-		echo -e "${YELLOW}User #$counterUser"
+	echo -e "${YELLOW}User #$counterUser"
         echo -e "${YELLOW}Username:\033[0m $USER"
         echo -e "${RED}Hash:\033[0m $USER_HASH\n"
         echo -e "$USER_HASH\n" >> "$FINAL_HASH"
